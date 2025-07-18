@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Salma!  
 
-🎓 **Second-year Data Science Student** passionate about turning data into meaningful insights.  
-📊 Skilled in **data analysis, machine learning, and big data technologies**.  
+🎓 **Second-year Data analysis Student** passionate about turning data into meaningful insights.  
+📊 Skilled in **data analysis and big data technologies**.  
 🚀 Always eager to explore new tools and techniques in the data science field.  
 
 ---
