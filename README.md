@@ -1,4 +1,6 @@
-👋 Hi, I'm Salma! 🎓 **Second-year Data analysis Student** passionate about turning data into meaningful insights. 📊 Skilled in **data analysis and big data technologies**. 🚀 Always eager to explore new tools and techniques in the data science field. 
+👋 Hi, I'm Salma Yasser 
+
+🎓 **Second-year Data analysis Student** passionate about turning data into meaningful insights. 📊 Skilled in **data analysis and big data technologies**. 🚀 Always eager to explore new tools and techniques in the data science field. 
 --- 
 
 ## 🔧 Skills & Technologies 
