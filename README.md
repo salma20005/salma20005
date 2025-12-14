@@ -12,7 +12,10 @@
 - 📊 **Data Visualization & Analytics**  
 - 🧹 **Data Cleaning & Preprocessing**  
 - 🤖 **Machine Learning (Supervised & Unsupervised)**  
-- 🏛 **SQL & Databases** (MySQL, PostgreSQL)  
+- 🏛 **SQL & Databases** (MySQL)
+- 🗄 **Data Warehousing** (Concepts, Star & Snowflake Schema)
+- 🔄 **SSIS** (ETL, Data Integration, Data Transformation)
+- 📊 **Power BI** (Dashboards, Reports, DAX, Data Modeling)
 - ☁️ **Cloud & Storage** (Google Drive API, AWS, BigQuery)  
 - 📝 **Jupyter Notebook & Google Colab**  
 - 📑 **Excel** (Formulas, Pivot Tables, Dashboards)  
