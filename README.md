@@ -11,7 +11,7 @@
 - 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly)  
 - 📊 **Data Visualization & Analytics**  
 - 🧹 **Data Cleaning & Preprocessing**  
-- 🤖 **Machine Learning (Supervised & Unsupervised)**  
+- 🤖 **Machine Learning (Supervised & Unsupervised)**
 - 🏛 **SQL & Databases** (MySQL)
 - 🗄 **Data Warehousing** (Concepts, Star & Snowflake Schema)
 - 🔄 **SSIS** (ETL, Data Integration, Data Transformation)
