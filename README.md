@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Salma!  
 
+<span style="color:#00c6ff;">Data Analyst</span>
+
 🎓 **Third-year Data Analysis Student** passionate about turning data into meaningful insights.  
 📊 Skilled in **data analysis and big data technologies**.  
 🚀 Always eager to explore new tools and techniques in the data science field.  
