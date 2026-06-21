@@ -14,7 +14,6 @@
 
 ## 💫 About Me
 
-
 🎓 Third-year **Data Analysis / Information Systems Student**<br>
 📊 Passionate about **Data Science, Machine Learning & Analytics**<br>
 🧠 Skilled in transforming raw data into meaningful insights<br>
@@ -22,7 +21,6 @@
 🎯 Goal: Become a Professional Data Scientist
 
 ---
-
 
 ## 🔧 Skills & Technologies
 
@@ -72,7 +70,6 @@
 
 ---
 
-
 ## 🚀 GitHub Stats
 
 <div align="center">
@@ -91,19 +88,18 @@
 
 ---
 
-
 ## 📂 Featured Projects
 
 ### 📊 Data Analysis
 
 <div align="center">
 
-<a href="https://github.com/salma20005/Retail_Sales_Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Retail_Sales_Analysis&theme=tokyonight" /></a>
-<a href="https://github.com/salma20005/netflix-sql-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=netflix-sql-analysis&theme=tokyonight" /></a>
-<a href="https://github.com/salma20005/Call-Center-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Call-Center-Dashboard&theme=tokyonight" /></a>
-<a href="https://github.com/salma20005/SuperStore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=SuperStore&theme=tokyonight" /></a>
-<a href="https://github.com/salma20005/Instagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Instagram&theme=tokyonight" /></a>
-<a href="https://github.com/salma20005/customer_behavior_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=customer_behavior_analysis&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/Retail_Sales_Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Retail_Sales_Analysis&theme=tokyonight&v=2" /></a>
+<a href="https://github.com/salma20005/netflix-sql-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=netflix-sql-analysis&theme=tokyonight&v=2" /></a>
+<a href="https://github.com/salma20005/Call-Center-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Call-Center-Dashboard&theme=tokyonight&v=2" /></a>
+<a href="https://github.com/salma20005/SuperStore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=SuperStore&theme=tokyonight&v=2" /></a>
+<a href="https://github.com/salma20005/Instagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Instagram&theme=tokyonight&v=2" /></a>
+<a href="https://github.com/salma20005/customer_behavior_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=customer_behavior_analysis&theme=tokyonight&v=2" /></a>
 
 </div>
 
@@ -111,9 +107,9 @@
 
 <div align="center">
 
-<a href="https://github.com/salma20005/Heart-Disease-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Heart-Disease-Prediction&theme=tokyonight" /></a>
-<a href="https://github.com/salma20005/Breast-Cancer-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Breast-Cancer-Classification&theme=tokyonight" /></a>
-<a href="https://github.com/salma20005/Spam-Mail-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Spam-Mail-Prediction&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/Heart-Disease-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Heart-Disease-Prediction&theme=tokyonight&v=2" /></a>
+<a href="https://github.com/salma20005/Breast-Cancer-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Breast-Cancer-Classification&theme=tokyonight&v=2" /></a>
+<a href="https://github.com/salma20005/Spam-Mail-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Spam-Mail-Prediction&theme=tokyonight&v=2" /></a>
 
 </div>
 
