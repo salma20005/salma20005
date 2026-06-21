@@ -8,9 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=700&lines=Hi+I'm+Salma!;Data+Analyst+%7C+Machine+Learning+Enthusiast;Turning+Data+into+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-yasser-11a28b2a3/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salma99987.yasser@gmail.com)
-
 </div>
 
 ---
