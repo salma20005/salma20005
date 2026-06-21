@@ -18,8 +18,7 @@
 📊 Passionate about **Data Science, Machine Learning & Analytics**<br>
 🧠 Skilled in transforming raw data into meaningful insights<br>
 🚀 Always building real-world projects and improving my skills<br>
-🎯 Goal: Become a Professional Data Scientist
-
+🎯 Goal: Become a Professional Data Scientist / Analyst
 ---
 
 ## 🔧 Skills & Technologies
