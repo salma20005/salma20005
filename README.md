@@ -1,4 +1,8 @@
-<h1 align="center">Salma Yasser</h1>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Salma%20Yasser&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+</div>
 
 <div align="center">
 
@@ -14,10 +18,10 @@
 
 ## 💫 About Me
 
-🎓 Third-year **Data Analysis / Information Systems Student**
-📊 Passionate about **Data Science, Machine Learning & Analytics**
-🧠 Skilled in transforming raw data into meaningful insights
-🚀 Always building real-world projects and improving my skills
+🎓 Third-year **Data Analysis / Information Systems Student**<br>
+📊 Passionate about **Data Science, Machine Learning & Analytics**<br>
+🧠 Skilled in transforming raw data into meaningful insights<br>
+🚀 Always building real-world projects and improving my skills<br>
 🎯 Goal: Become a Professional Data Scientist
 
 🌱 **Currently learning:** Deep Learning fundamentals & advanced SQL
