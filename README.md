@@ -18,7 +18,8 @@
 📊 Passionate about **Data Science, Machine Learning & Analytics**<br>
 🧠 Skilled in transforming raw data into meaningful insights<br>
 🚀 Always building real-world projects and improving my skills<br>
-🎯 Goal: Become a Professional Data Scientist
+🎯 Goal: Become a Professional Data Scientist / Analyst
+
 
 ---
 
@@ -92,26 +93,33 @@
 
 ### 📊 Data Analysis
 
-<div align="center">
-
-<a href="https://github.com/salma20005/Retail_Sales_Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Retail_Sales_Analysis&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/salma20005/netflix-sql-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=netflix-sql-analysis&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/salma20005/Call-Center-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Call-Center-Dashboard&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/salma20005/SuperStore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=SuperStore&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/salma20005/Instagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Instagram&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/salma20005/customer_behavior_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=customer_behavior_analysis&theme=tokyonight&v=2" /></a>
-
-</div>
+<table align="center">
+<tr>
+<td><a href="https://github.com/salma20005/Retail_Sales_Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Retail_Sales_Analysis&theme=tokyonight&v=2" /></a></td>
+<td><a href="https://github.com/salma20005/netflix-sql-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=netflix-sql-analysis&theme=tokyonight&v=2" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/salma20005/Call-Center-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Call-Center-Dashboard&theme=tokyonight&v=2" /></a></td>
+<td><a href="https://github.com/salma20005/SuperStore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=SuperStore&theme=tokyonight&v=2" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/salma20005/Instagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Instagram&theme=tokyonight&v=2" /></a></td>
+<td><a href="https://github.com/salma20005/customer_behavior_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=customer_behavior_analysis&theme=tokyonight&v=2" /></a></td>
+</tr>
+</table>
 
 ### 🤖 Machine Learning
 
-<div align="center">
-
-<a href="https://github.com/salma20005/Heart-Disease-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Heart-Disease-Prediction&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/salma20005/Breast-Cancer-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Breast-Cancer-Classification&theme=tokyonight&v=2" /></a>
-<a href="https://github.com/salma20005/Spam-Mail-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Spam-Mail-Prediction&theme=tokyonight&v=2" /></a>
-
-</div>
+<table align="center">
+<tr>
+<td><a href="https://github.com/salma20005/Heart-Disease-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Heart-Disease-Prediction&theme=tokyonight&v=2" /></a></td>
+<td><a href="https://github.com/salma20005/Breast-Cancer-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Breast-Cancer-Classification&theme=tokyonight&v=2" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/salma20005/Spam-Mail-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Spam-Mail-Prediction&theme=tokyonight&v=2" /></a></td>
+<td></td>
+</tr>
+</table>
 
 ### 🛠 Other Projects
 
