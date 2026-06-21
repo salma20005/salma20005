@@ -14,6 +14,7 @@
 
 ## 💫 About Me
 
+
 🎓 Third-year **Data Analysis / Information Systems Student**<br>
 📊 Passionate about **Data Science, Machine Learning & Analytics**<br>
 🧠 Skilled in transforming raw data into meaningful insights<br>
@@ -21,6 +22,7 @@
 🎯 Goal: Become a Professional Data Scientist
 
 ---
+
 
 ## 🔧 Skills & Technologies
 
@@ -70,6 +72,7 @@
 
 ---
 
+
 ## 🚀 GitHub Stats
 
 <div align="center">
@@ -87,6 +90,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salma20005&theme=tokyo-night)
 
 ---
+
 
 ## 📂 Featured Projects
 
