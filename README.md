@@ -15,39 +15,69 @@
 
 ## 🔧 Skills & Technologies  
 
-### 🐍 Programming
+### 🐍 Programming & Core CS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
 
 ---
 
-### 📊 Data Analysis & Visualization
+### 📊 Data Analysis & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
-
----
-
-### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+- Data Analysis & Visualization  
+- Data Cleaning & Preprocessing  
+- Machine Learning (Supervised & Unsupervised)  
 
 ---
 
 ### 🏛️ Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- SQL Server Management Studio (SSMS)  
+- Database Design & Optimization  
 
 ---
 
-### 📊 BI Tools
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+- Backend Development (Laravel, PHP)  
+- Frontend Basics (HTML, CSS, JavaScript)  
+
+---
+
+### 📊 BI & Data Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+- Dashboards & Reporting  
+- DAX & Data Modeling  
 
 ---
 
-### 📑 Productivity Tools
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 🛠 Tools & Environment
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+- Jupyter Notebook  
+- Google Colab  
+- SQL Server Management Studio (SSMS)  
 
 ---
 
