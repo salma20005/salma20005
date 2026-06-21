@@ -18,7 +18,8 @@
 📊 Passionate about **Data Science, Machine Learning & Analytics**<br>
 🧠 Skilled in transforming raw data into meaningful insights<br>
 🚀 Always building real-world projects and improving my skills<br>
-🎯 Goal: Become a Professional Data Scientist / Analyst
+🎯 Goal: Become a Professional Data Scientist
+
 ---
 
 ## 🔧 Skills & Technologies
@@ -90,23 +91,38 @@
 ## 📂 Featured Projects
 
 ### 📊 Data Analysis
-- [Retail Sales Analysis](https://github.com/salma20005/Retail_Sales_Analysis.git)
-- [Netflix SQL Analysis](https://github.com/salma20005/netflix-sql-analysis.git)
-- [Call Center Dashboard](https://github.com/salma20005/Call-Center-Dashboard.git)
-- [SuperStore Analysis](https://github.com/salma20005/SuperStore.git)
-- [Instagram Data Analysis](https://github.com/salma20005/Instagram.git)
-- [Customer Behavior Analysis](https://github.com/salma20005/customer_behavior_analysis.git)
+
+<div align="center">
+
+<a href="https://github.com/salma20005/Retail_Sales_Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Retail_Sales_Analysis&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/netflix-sql-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=netflix-sql-analysis&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/Call-Center-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Call-Center-Dashboard&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/SuperStore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=SuperStore&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/Instagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Instagram&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/customer_behavior_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=customer_behavior_analysis&theme=tokyonight" /></a>
+
+</div>
 
 ### 🤖 Machine Learning
-- [Heart Disease Prediction](https://github.com/salma20005/Heart-Disease-Prediction.git)
-- [Breast Cancer Classification](https://github.com/salma20005/Breast-Cancer-Classification.git)
-- [Spam Mail Prediction](https://github.com/salma20005/Spam-Mail-Prediction.git)
+
+<div align="center">
+
+<a href="https://github.com/salma20005/Heart-Disease-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Heart-Disease-Prediction&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/Breast-Cancer-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Breast-Cancer-Classification&theme=tokyonight" /></a>
+<a href="https://github.com/salma20005/Spam-Mail-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salma20005&repo=Spam-Mail-Prediction&theme=tokyonight" /></a>
+
+</div>
 
 ### 🛠 Other Projects
-- Data Warehouse (DWH) Assignments
-- AI & ML Course Projects
-- Java / OOP Projects
-- SQL Projects
+
+<div align="center">
+
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse%20(DWH)%20Assignments-1a1b27?style=for-the-badge&logo=databricks&logoColor=36BCF7)
+![AI & ML Course Projects](https://img.shields.io/badge/AI%20%26%20ML%20Course%20Projects-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=36BCF7)
+![Java OOP Projects](https://img.shields.io/badge/Java%20%2F%20OOP%20Projects-1a1b27?style=for-the-badge&logo=java&logoColor=36BCF7)
+![SQL Projects](https://img.shields.io/badge/SQL%20Projects-1a1b27?style=for-the-badge&logo=mysql&logoColor=36BCF7)
+
+</div>
 
 ---
 
