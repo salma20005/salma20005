@@ -1,5 +1,4 @@
 <h1 align="center">Salma Yasser</h1>
-<h3 align="center">Data Analyst | Machine Learning Enthusiast | Turning Data into Insights 🚀</h3>
 
 <div align="center">
 
@@ -19,7 +18,10 @@
 📊 Passionate about **Data Science, Machine Learning & Analytics**
 🧠 Skilled in transforming raw data into meaningful insights
 🚀 Always building real-world projects and improving my skills
-🎯 Goal: Become a Professional Data Scientist / Analyst
+🎯 Goal: Become a Professional Data Scientist
+
+🌱 **Currently learning:** Deep Learning fundamentals & advanced SQL
+📌 **Currently working on:** Expanding my Machine Learning portfolio with end-to-end projects
 
 ---
 
@@ -87,37 +89,28 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salma20005&theme=tokyo-night)
 
-### 🏆 Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=salma20005&theme=tokyonight&row=1&column=7)
-
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Data Analysis
-| Project | Description | Tools |
-|---|---|---|
-| [Retail Sales Analysis](https://github.com/salma20005/Retail_Sales_Analysis.git) 
-| [Netflix SQL Analysis](https://github.com/salma20005/netflix-sql-analysis.git) 
-| [Call Center Dashboard](https://github.com/salma20005/Call-Center-Dashboard.git) 
-| [SuperStore Analysis](https://github.com/salma20005/SuperStore.git) 
-| [Instagram Data Analysis](https://github.com/salma20005/Instagram.git) 
-| [Customer Behavior Analysis](https://github.com/salma20005/customer_behavior_analysis.git) 
+- [Retail Sales Analysis](https://github.com/salma20005/Retail_Sales_Analysis.git)
+- [Netflix SQL Analysis](https://github.com/salma20005/netflix-sql-analysis.git)
+- [Call Center Dashboard](https://github.com/salma20005/Call-Center-Dashboard.git)
+- [SuperStore Analysis](https://github.com/salma20005/SuperStore.git)
+- [Instagram Data Analysis](https://github.com/salma20005/Instagram.git)
+- [Customer Behavior Analysis](https://github.com/salma20005/customer_behavior_analysis.git)
 
 ### 🤖 Machine Learning
-| Project | Description | Tools |
-|---|---|---|
-| [Heart Disease Prediction](https://github.com/salma20005/Heart-Disease-Prediction.git) 
-| [Breast Cancer Classification](https://github.com/salma20005/Breast-Cancer-Classification.git) 
-| [Spam Mail Prediction](https://github.com/salma20005/Spam-Mail-Prediction.git)
-
+- [Heart Disease Prediction](https://github.com/salma20005/Heart-Disease-Prediction.git)
+- [Breast Cancer Classification](https://github.com/salma20005/Breast-Cancer-Classification.git)
+- [Spam Mail Prediction](https://github.com/salma20005/Spam-Mail-Prediction.git)
 
 ### 🛠 Other Projects
-- [Data Warehouse (DWH) Assignments]
-- [AI & ML Course Projects]
-- [Java / OOP Projects]
-- [SQL Projects]
+- Data Warehouse (DWH) Assignments
+- AI & ML Course Projects
+- Java / OOP Projects
+- SQL Projects
 
 ---
 
