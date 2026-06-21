@@ -23,9 +23,6 @@
 🚀 Always building real-world projects and improving my skills<br>
 🎯 Goal: Become a Professional Data Scientist
 
-🌱 **Currently learning:** Deep Learning fundamentals & advanced SQL
-📌 **Currently working on:** Expanding my Machine Learning portfolio with end-to-end projects
-
 ---
 
 ## 🔧 Skills & Technologies
